@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "scripts": {
+      "test": "jest"
+    }
+  }
+}
