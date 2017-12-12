@@ -7,9 +7,6 @@
     "jest": "^21.2.1"
   },
   "scripts": {
-    "test": "react-scripts test --env=jsdom",
-    "scripts": {
-      "test": "jest"
-    }
+    "test": "jest --watchAll"
   }
 }
